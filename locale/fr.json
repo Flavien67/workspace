@@ -1,0 +1,29 @@
+{
+  "TEXT_WELCOME": "Vous voici sur la page principale non connectée",
+  "BUTTON_CONNECT": "CONNEXION",
+  "BUTTON_OWNER": "Je possède une carette",
+  
+  
+  "DRAWER_WELCOME": "Découvrez Carette Bike !",
+  "DRAWER_ABOUT": "Qui sommes-nous?",
+  "DRAWER_SHOP": "Magasin",
+  "DRAWER_SIGN_IN": "Connexion",
+  "DRAWER_SIGN_UP": "Inscription",
+  
+  "STACK_WELCOME": "Découvrez Carette",
+  "STACK_ABOUT": "Achetez une carette",
+  "STACK_SIGN_IN": "Connexion",
+  "STACK_SIGN_UP": "Inscription",
+  "STACK_FORGOTTEN_PASSWORD": "Mot de passe oublié",
+
+  "BOTTOM_TAB_HOME": "Accueil",
+  "BOTTOM_TAB_COM": "Shopping",
+
+  "REMEMBER_ME": "Se souvenir de moi",
+  "AUTO_CONNECT": "Connexion auto",
+  "SIGN_UP_ASK": "Pas encore inscrit?  ",
+  "FORGOTTEN_PASSWORD_ASK": "Mot de passe oublié?",
+  "PASSWORD": "Mot de passe",
+  "LOGIN": "Adresse email"
+
+}
